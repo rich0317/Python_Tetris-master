@@ -14,7 +14,7 @@ BRICK_DOWN_SPEED_MAX = 0.5
 canvas_width = 800
 canvas_height = 600
 
-# 顏色.
+# color
 color_block         = (0,0,0)
 color_white         = (255, 255, 255)
 color_red           = (255, 0, 0)
