@@ -6,7 +6,7 @@ from pygame.locals import *
 from drew import *
 
 # 常數-磚塊快速下降速度
-BRICK_DROP_RAPIDLY   = 0.03
+BRICK_DROP_RAPIDLY   = 0.04
 # 常數-磚塊正常下降速度.
 BRICK_DOWN_SPEED_MAX = 0.5
 
