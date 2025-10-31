@@ -399,7 +399,7 @@ while running:
                 debug_message = not debug_message                
             #-----------------------------------------------------------------
             # 變換方塊-上.
-            elif event.key == pygame.K_UP and game_mode == 0:
+            elif event.key == pyggame.K_UP and game_mode == 0:
                 # 在右邊界不能旋轉.
                 if (container_x == 8):
                     break
